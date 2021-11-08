@@ -1,0 +1,36 @@
+h1,
+h3 {
+    color: rgb(9, 52, 131);
+    text-align: center;
+    margin-top: 50px;
+}
+
+
+#storeInDbBtn {
+    background-color: rgb(4, 70, 170);
+    border: rgb(4, 70, 170) 3px solid;
+    color: white;
+    margin-top: 10px;
+    position: relative;
+    text-align: center;
+}
+
+
+#btnDiv {
+    text-align: center;
+}
+
+#inputs {
+    text-align: center;
+}
+
+#msg {
+    text-align: center;
+    color: rgb(4, 70, 170);
+    margin-top: 20px;
+}
+
+#data {
+    color: rgb(4, 70, 170);
+    text-align: center;
+}
